@@ -80,7 +80,7 @@ Contributing
 ============
 
 Please feel free to submit issues and pull requests. I appreciate bug reports.
-Testing on different platforms is especially appreciated. I only tested on Linux.
+Testing on different platforms is especially appreciated.
 
 License
 =======
